@@ -16,3 +16,4 @@ Apriori - library of implementation of Apriori algorithm (Assoiciation rules) (U
 
 TA-Lib - library of technical analysis of financial markets (URL: https://pypi.org/project/TA-Lib/)
 
+Backtrader - back testing engine (https://pypi.org/project/backtrader/)
